@@ -1,0 +1,176 @@
+[
+  {
+    "name": "TextCleanr",
+    "purpose": "批量文本清理",
+    "removal": {
+      "url": "https://www.textcleanr.com/",
+      "date": "2026-09-23T19:34:03-04:00",
+      "sha": "be2c25b57e51de60aecc9f22a96abaab13650f37",
+      "file": "docs/text-tools.md",
+      "line": "* ⭐ **[SortMyList](https://sortmylist.com/)**, **[TextCleanr](https://www.textcleanr.com/)**, [Text Mechanic](https://textmechanic.com/), [TextFixer](https://www.textfixer.com/), [OnlineTextTools](https://onlinetexttools.com/), [Convert Case](https://convertcase.net/), [TextCleaner](https://textcleaner.net/all-tools/) or [The Alphabetizer](https://alphabetizer.flap.tv/) - Organize / Format Text",
+      "same_host_in_current": false,
+      "unsafe_exact_match": false
+    },
+    "check": {
+      "url": "https://www.textcleanr.com/",
+      "date": "2023-11-26T03:01:43-08:00",
+      "sha": "4edb65634c1ff3c6e53b43472ea0856d5b7dd072",
+      "file": "🔧-Tools.md",
+      "line": "* ⭐ **[TextCleanr](https://www.textcleanr.com/)** - Bulk Text Editor",
+      "same_host_in_current": false,
+      "unsafe_exact_match": false,
+      "checked_at": "2026-09-30T09:41:43+08:00",
+      "http_status": 200,
+      "final_url": "https://www.textcleanr.com/",
+      "title": "TextCleanr - Text Cleaner Tool",
+      "validation_level": "page_only",
+      "core_function_verified": false
+    },
+    "assessment": "页面及工具标题可读；未执行清理"
+  },
+  {
+    "name": "Software Heritage",
+    "purpose": "软件源码保存与溯源",
+    "removal": {
+      "url": "https://www.softwareheritage.org/",
+      "date": "2026-08-23T22:02:21-07:00",
+      "sha": "20b42efe9e51e52edabe8d662d35e1e12d2042bd",
+      "file": "docs/downloading.md",
+      "line": "* [Software Heritage](https://www.softwareheritage.org/) - Software Source Code Archive",
+      "same_host_in_current": false,
+      "unsafe_exact_match": false
+    },
+    "check": {
+      "url": "https://www.softwareheritage.org/",
+      "date": "2026-08-23T21:58:27-07:00",
+      "sha": "f896bb5b5abb9f088d38c6bf8f556e02170e3ae6",
+      "file": "Downloading.md",
+      "line": "* [Software Heritage](https://www.softwareheritage.org/) - Software Source Code Archive",
+      "same_host_in_current": false,
+      "unsafe_exact_match": false,
+      "checked_at": "2026-09-30T09:40:46+08:00",
+      "http_status": 200,
+      "final_url": "https://www.softwareheritage.org/",
+      "title": "Home Page - Software Heritage",
+      "validation_level": "page_only",
+      "core_function_verified": false
+    },
+    "assessment": "主页可读；未测试存档下载/API"
+  },
+  {
+    "name": "PrivacySpy",
+    "purpose": "隐私政策比较",
+    "removal": {
+      "url": "https://privacyspy.org/",
+      "date": "2026-08-06T15:51:28-07:00",
+      "sha": "d9efed64af63c102b03dd9938ca9bad8f9deb4d9",
+      "file": "docs/privacy.md",
+      "line": "* ⭐ **[PrivacySpy](https://privacyspy.org/)** / [GitHub](https://github.com/politiwatch/privacyspy) or [ToS;DR](https://tosdr.org/) / [Discord](https://discord.gg/tosdr) / [GitHub](https://github.com/tosdr) - Sites Privacy Policies",
+      "same_host_in_current": false,
+      "unsafe_exact_match": false
+    },
+    "check": {
+      "url": "https://privacyspy.org/",
+      "date": "2026-08-06T15:49:42-07:00",
+      "sha": "d008fe889f3791686d5f7451581a8041206a7040",
+      "file": "Adblock.md",
+      "line": "* ⭐ **[PrivacySpy](https://privacyspy.org/)** / [GitHub](https://github.com/politiwatch/privacyspy) or [ToS;DR](https://tosdr.org/) / [Discord](https://discord.gg/tosdr) / [GitHub](https://github.com/tosdr) - Sites Privacy Policies",
+      "same_host_in_current": false,
+      "unsafe_exact_match": false,
+      "checked_at": "2026-09-30T09:40:37+08:00",
+      "http_status": 200,
+      "final_url": "https://privacyspy.org/",
+      "title": "PrivacySpy: We track online privacy",
+      "validation_level": "page_only",
+      "core_function_verified": false
+    },
+    "assessment": "主页可读；评分更新时间仍需复核"
+  },
+  {
+    "name": "No More Google",
+    "purpose": "Google 产品替代目录",
+    "removal": {
+      "url": "https://nomoregoogle.com/",
+      "date": "2026-09-09T07:00:34-07:00",
+      "sha": "07aabae06e34dd9879f5acbccb73b56c5786c708",
+      "file": "docs/privacy.md",
+      "line": "* 🌐 **[Google Alt List](https://www.techspot.com/article/2752-all-google-alternatives/)**, [r/degoogle](https://www.reddit.com/r/degoogle) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives",
+      "same_host_in_current": false,
+      "unsafe_exact_match": false
+    },
+    "check": {
+      "url": "https://nomoregoogle.com/",
+      "date": "2026-09-09T06:57:38-07:00",
+      "sha": "f8fecd6ed28066f7e624eacacf132d44a3a4f17b",
+      "file": "Adblock.md",
+      "line": "* 🌐 **[Google Alt List](https://www.techspot.com/article/2752-all-google-alternatives/)**, [r/degoogle](https://www.reddit.com/r/degoogle) or [No More Google](https://nomoregoogle.com/) - Google App Alternatives",
+      "same_host_in_current": false,
+      "unsafe_exact_match": false,
+      "checked_at": "2026-09-30T09:40:37+08:00",
+      "http_status": 200,
+      "final_url": "https://nomoregoogle.com/",
+      "title": "No More Google",
+      "validation_level": "page_only",
+      "core_function_verified": false
+    },
+    "assessment": "目录主页可读；目录内项目未逐个验证"
+  },
+  {
+    "name": "Are We Anti-Cheat Yet?",
+    "purpose": "Linux/Wine/Proton 游戏兼容信息",
+    "removal": {
+      "url": "https://areweanticheatyet.com/",
+      "date": "2026-09-04T00:47:59-07:00",
+      "sha": "e3ec57a2a204e3e1cbf0d533dce7e3e6ef4ea518",
+      "file": "docs/gaming-tools.md",
+      "line": "* [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/) - Anti-Cheat Game Database / GNU/Linux or Wine/Proton Compatibility",
+      "same_host_in_current": false,
+      "unsafe_exact_match": false
+    },
+    "check": {
+      "url": "https://areweanticheatyet.com/",
+      "date": "2026-09-04T00:46:29-07:00",
+      "sha": "ca31918cacdbe4485cb1006861e222e6572f8b92",
+      "file": "Linux.md",
+      "line": "* ⭐ **[protondb](https://www.protondb.com/)** / [Steam Extension](https://github.com/Trsnaqe/protondb-community-extension) / [Discord](https://discord.com/invite/uuwK9EV) or [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/) - Game Compatibility Databases",
+      "same_host_in_current": false,
+      "unsafe_exact_match": false,
+      "checked_at": "2026-09-30T09:40:39+08:00",
+      "http_status": 200,
+      "final_url": "https://areweanticheatyet.com/",
+      "title": "Are We Anti-Cheat Yet?",
+      "validation_level": "page_only",
+      "core_function_verified": false
+    },
+    "assessment": "主页可读；具体游戏运行未测试"
+  },
+  {
+    "name": "Map History",
+    "purpose": "历史地图与制图史资料",
+    "removal": {
+      "url": "https://www.maphistory.info/",
+      "date": "2026-09-25T09:26:19-07:00",
+      "sha": "f9bf140982860560b43036a1537356ddcc4d6eda",
+      "file": "docs/misc.md",
+      "line": "* 🌐 **[Map History](https://www.maphistory.info/)** or [David Rumsey Map Collection](https://www.davidrumsey.com/) - Historical Map Indexes",
+      "same_host_in_current": false,
+      "unsafe_exact_match": false
+    },
+    "check": {
+      "url": "https://www.maphistory.info/",
+      "date": "2026-09-25T09:22:29-07:00",
+      "sha": "6632f5ee9fbac93ad1bd96cbc8935d13db07f3c7",
+      "file": "Misc.md",
+      "line": "* 🌐 **[Map History](https://www.maphistory.info/)** or [David Rumsey Map Collection](https://www.davidrumsey.com/) - Historical Map Indexes",
+      "same_host_in_current": false,
+      "unsafe_exact_match": false,
+      "checked_at": "2026-09-30T09:40:22+08:00",
+      "http_status": 200,
+      "final_url": "https://www.maphistory.info/",
+      "title": "Map History / History of Cartography - WWW-Virtual Library",
+      "validation_level": "page_only",
+      "core_function_verified": false
+    },
+    "assessment": "目录主页可读；外部资料时效待核验"
+  }
+]
